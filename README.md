@@ -10,7 +10,8 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on machine Learning, quantum computing and data science research/ projects.
 - 🤔 I’m looking for help with research on classical and quantum machine learning.
 - 💬 Ask me about anything related to my works.
-- 📫 How to reach me: abirtanjinadnan@gmail.com
+- 📫 How to reach me: abirtanjinadnan@gmail.com, https://www.linkedin.com/in/tanjinadnanabir/
 - 😄 Pronouns: he/ him
+- Happy to code!
 <!-- - ⚡ Fun fact: ... -->
 
