@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: abirtanjinadnan@gmail.com, https://www.linkedin.com/in/tanjinadnanabir/
 - 😄 Pronouns: he/ him
 - Programming: Python, R, Qiskit, C++
-- Happy to code! Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
 - Fluent in English and Bangla
+- Happy to code! Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
 <!-- - ⚡ Fun fact: ... -->
 
