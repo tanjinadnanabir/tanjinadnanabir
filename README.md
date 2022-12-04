@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on machine learning.
+- 🔭 I’m currently working on machine learning and web apps developement.
 - 🌱 I’m currently learning quantum computing and machine learning.
 - 👯 I’m looking to collaborate on machine Learning, quantum computing and data science research/ projects.
 - 🤔 I’m looking for help with research on classical and quantum machine learning.
