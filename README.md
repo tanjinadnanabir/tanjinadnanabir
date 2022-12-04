@@ -12,7 +12,8 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything related to my works.
 - 📫 How to reach me: abirtanjinadnan@gmail.com, https://www.linkedin.com/in/tanjinadnanabir/
 - 😄 Pronouns: he/ him
-- Programming: Python, R, C++/C, JavaScript
+- Programming: Python, C++/C, JavaScript
+- Development: Web (HTML, CSS, JS)
 - Other Skills: Qiskit SDK, Cirq, ML Algorithms, Statistics, Data Structures/Algo
 - Fluent in English and Bangla
 - Happy to code! Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
