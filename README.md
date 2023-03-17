@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started: -->
 
+- Connecting Math, Physics and Biology  
 - 🔭 I’m currently working on machine learning and web apps developement.
 - 🌱 I’m currently learning quantum computing and machine learning.
 - 👯 I’m looking to collaborate on machine Learning, quantum computing and data science research/ projects.
