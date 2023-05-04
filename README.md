@@ -13,8 +13,8 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything related to my works.
 - 📫 How to reach me: abirtanjinadnan@gmail.com, https://www.linkedin.com/in/tanjinadnanabir/
 - 😄 Pronouns: he/ him
-- Programming: Python, C++/C, JavaScript
-- Development: Web (HTML, CSS, JS)
+- Programming: Python, JavaScript, C#
+- Development: Web (HTML, CSS, JS), NodeJS
 - Other Skills: Qiskit, ML Algorithms, Statistics, Data Structures/ Algorithms
 - Interests: Optics, Photonics, BCI, ML, QC etc.
 - Fluent in English and Bangla
