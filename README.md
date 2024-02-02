@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on full-stack web application development | machine learning | quantum computing.
-- 🌱 I’m currently learning quantum computing, machine learning, and data science.
+- 🔭 I’m currently working on web application development | machine learning | quantum computing.
+- 🌱 I’m currently learning quantum computing and machine learning.
 - 👯 I’m looking to collaborate on machine Learning and quantum computing research/ projects.
 - 🤔 I’m looking for help with research on quantum computing, machine learning, and data science.
 - 💬 Ask me about anything related to my work.
@@ -17,6 +17,6 @@ Here are some ideas to get you started: -->
 - Other Skills: Qiskit, ML Algorithms, Statistics, Data Structures, Algorithms
 - Research Interests: ML, QC, Optics, Photonics, Computation Biology / Neuroscience etc.
 - Fluent in English and Bangla
-- Happy to code! Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
+- Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
 <!-- - ⚡ Fun fact: ... -->
 
