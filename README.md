@@ -12,10 +12,10 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything related to my work.
 - 📫 How to reach me: tanjinadnanabir@gmail.com, https://www.linkedin.com/in/tanjinadnanabir/
 - 😄 Pronouns: he/ him
-- Programming: JavaScript, Python, SQL
+- Programming: Python, C, C++, JavaScript, SQL
 - Software Development: Web (HTML, CSS, JS) | Backend:  NodeJS, ExpressJS, NestJS | Frontend: ReactJS, VueJS
-- Other Skills: Qiskit, ML Algorithms, Statistics, Data Structures, Algorithms
-- Research Interests: ML, QC, Data Science, Computation Biology / Neuroscience etc.
+- Other Skills: ML Algorithms, Statistics, Data Structures, Algorithms
+- Research Interests: QC, ML, Data Science, Bioinformatics, Computation Biology etc.
 - Fluent in English and Bangla
 - Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
 <!-- - ⚡ Fun fact: ... -->
