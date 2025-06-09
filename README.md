@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on machine learning | quantum computing | web design, and development.
+- 🔭 I’m currently working on machine learning | quantum computing | web design and development.
 - 🌱 I’m currently learning deep learning and gen AI.
 - 👯 I’m looking to collaborate on research and projects.
 - 🤔 I’m seeking help with research on quantum computing, machine learning, and data science.
