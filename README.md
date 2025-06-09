@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on machine learning | quantum computing | web design and development.
-- 🌱 I’m currently learning deep learning and gen AI.
+- 🔭 I’m currently working on machine learning | web design and development.
+- 🌱 I’m currently learning deep learning and Gen AI.
 - 👯 I’m looking to collaborate on research and projects.
 - 🤔 I’m seeking help with research on quantum computing, machine learning, and data science.
 - 💬 Ask me about anything related to my work.
@@ -14,8 +14,8 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: he/ him
 - Programming: Python, C, C++, JavaScript, SQL
 - Web Development: HTML, CSS, JS | Backend:  NodeJS, ExpressJS | Frontend: ReactJS
-- Other Skills: ML Algorithms, Statistics, Data Structures, Algorithms
-- Research Interests: QC, ML, Data Science, Bioinformatics, Computational Neuroscience, etc.
+- Other Skills: ML and DL Algorithms, Statistics, Data Structures, Algorithms
+- Research Interests: Machine/Deep Learning, Quantum Computing, Nanotechnology, Bioinformatics, Computational Neuroscience, etc.
 - Fluent in English and Bangla
 - Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
 <!-- - ⚡ Fun fact: ... -->
