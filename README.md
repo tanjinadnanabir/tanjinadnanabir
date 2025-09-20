@@ -5,15 +5,15 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on machine learning | web design and development.
-- 🌱 I’m currently learning deep learning and Gen AI.
+- 🔭 I’m currently working on deep learning and web design.
+- 🌱 I’m currently learning deep learning, NLP, and LLM.
 - 👯 I’m looking to collaborate on research and projects.
-- 🤔 I’m seeking help with research on quantum computing, machine learning, and data science.
+- 🤔 I’m seeking help with research on deep learning and quantum computing.
 - 💬 Ask me about anything related to my work.
 - 📫 How to reach me: tanjinadnanabir@gmail.com, https://www.linkedin.com/in/tanjinadnanabir/
 - 😄 Pronouns: he/ him
 - Programming: Python, C, C++, JavaScript, SQL
-- Web Development: HTML, CSS, JS | Backend:  NodeJS, ExpressJS | Frontend: ReactJS
+- Web: HTML, CSS, JS 
 - Other Skills: ML and DL Algorithms, Statistics, Data Structures, Algorithms
 - Research Interests: Machine/Deep Learning, Quantum Computing, Nanotechnology, Bioinformatics, Computational Neuroscience, etc.
 - Fluent in English and Bangla
