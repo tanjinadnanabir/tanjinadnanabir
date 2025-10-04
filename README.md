@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on research and projects.
 - 🤔 I’m seeking help with research on deep learning and quantum computing.
 - 💬 Ask me about anything related to my work.
-- 📫 How to reach me: tanjinadnanabir@gmail.com, https://www.linkedin.com/in/tanjinadnanabir/
+- 📫 How to reach me: tanjinadnanabir@gmail.com
 - 😄 Pronouns: he/ him
 - Programming: Python, C, C++, JavaScript, SQL
 - Web: HTML, CSS, JS 
