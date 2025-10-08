@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on machine/deep learning and web design.
+- 🔭 I’m currently working on machine learning, deep learning, and web design.
 - 🌱 I’m currently learning NLP, Computer Vision, and LLM.
 - 👯 I’m looking to collaborate on research and projects.
 - 🤔 I’m seeking help with research on deep learning and quantum computing.
@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 - Programming: Python, C, C++, JavaScript, SQL
 - Web: HTML, CSS, JS 
 - Other Skills: ML and DL, Data Structures and Algorithms
-- Research Interests: Machine/Deep Learning, Quantum Computing, Nanotechnology, Bioinformatics, Computational Neuroscience, etc.
+- Research Interests: Deep Learning, Quantum Computing, Nanotechnology, Bioinformatics, Computational Neuroscience, etc.
 - Fluent in English and Bangla
 - Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
 <!-- - ⚡ Fun fact: ... -->
