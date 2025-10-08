@@ -55,7 +55,6 @@ Here are some ideas to get you started: -->
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 # 📊 GitHub Stats:
 ![tanjinadnanabir's Stats](https://github-readme-stats.vercel.app/api?username=tanjinadnanabir&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
