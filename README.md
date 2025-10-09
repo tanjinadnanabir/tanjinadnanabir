@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: tanjinadnanabir@gmail.com
 - 😄 Pronouns: he/him/his
 - Programming: Python, C, C++, JavaScript, SQL
-- Web: HTML, CSS, JS 
+- Web: HTML, CSS, JavaScript 
 - Other Skills: ML and DL, Data Structures and Algorithms
 - Research Interests: Deep Learning, Quantum Computing, Nanotechnology, Bioinformatics, Computational Neuroscience, etc.
 - Fluent in English and Bangla
