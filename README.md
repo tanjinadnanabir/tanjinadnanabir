@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: he/him/his
 - Programming: Python, C, C++, JavaScript, SQL
 - Web: HTML, CSS, JavaScript 
-- Other Skills: ML and DL, Data Structures and Algorithms
+- Other Skills: ML and DL Algorithms, Data Structures and Algorithms
 - Research Interests: Deep Learning, Quantum Computing, Nanotechnology, Bioinformatics, Computational Neuroscience, etc.
 - Fluent in English and Bangla
 - Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
