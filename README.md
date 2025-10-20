@@ -1,7 +1,7 @@
 # Hello! there 👋
 
 - 🔭 I’m currently working on machine learning, deep learning, and web design.
-- 🌱 I’m currently learning NLP, Computer Vision, and LLM.
+- 🌱 I’m currently learning NLP, LLM, and Agentic AI.
 - 👯 I’m looking to collaborate on research and projects.
 - 🤔 I’m seeking help with research on deep learning and quantum computing.
 - 💬 Ask me about anything related to my work.
