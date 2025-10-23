@@ -1,17 +1,15 @@
 # Hello! there 👋
 
+## I'm Tanjin Adnan Abir, a computer scientist, researcher, & STEM enthusiast.  
+
 - 🔭 I’m currently working on machine learning, deep learning, and web design.
-- 🌱 I’m currently learning NLP, LLM, and Agentic AI.
+- 🌱 I’m currently learning LLM and Agentic AI.
 - 👯 I’m looking to collaborate on research and projects.
-- 🤔 I’m seeking help with research on deep learning and quantum computing.
+- 🤔 I’m seeking help with research on NLP, computer vision, and quantum computing.
 - 💬 Ask me about anything related to my work.
 - 📫 How to reach me: tanjinadnanabir@gmail.com
 - 😄 Pronouns: he/him/his
-- Programming: Python, C, C++, JavaScript, SQL
-- Web: HTML, CSS, JavaScript
-- Database: MySQL, PostgreSQL, MongoDB, Oracle
-- Other Skills: ML and DL Algorithms, Data Structures and Algorithms
-- Research Interests: Deep Learning, Quantum Computing, Nanotechnology, Bioinformatics, Computational Neuroscience, etc.
+- Research Interests: Deep Learning, Quantum Computing, Nanotechnology, Bioinformatics, Computational Bio/Neuroscience, etc.
 - Fluent in English and Bangla
 - Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
 <!-- - ⚡ Fun fact: ... -->
