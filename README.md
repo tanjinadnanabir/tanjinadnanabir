@@ -1,6 +1,6 @@
 # Hello! there 👋
 
-## I'm Tanjin Adnan Abir, a computer scientist, researcher, & STEM enthusiast.  
+# I'm Tanjin Adnan Abir, a computer scientist, researcher, & STEM enthusiast.  
 
 - 🔭 I’m currently working on machine learning, deep learning, and web design.
 - 🌱 I’m currently learning LLM and Agentic AI.
@@ -14,7 +14,7 @@
 - Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
 <!-- - ⚡ Fun fact: ... -->
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjinadnanabir@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanjinadnanabir/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/tanjinadnanabir) 
