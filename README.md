@@ -54,6 +54,4 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 📊 GitHub Stats:
-![tanjinadnanabir's Stats](https://github-readme-stats.vercel.app/api?username=tanjinadnanabir&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
-![tanjinadnanabir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanjinadnanabir&theme=vue-dark&hide_border=true) 
-![tanjinadnanabir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjinadnanabir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanjinadnanabir&theme=dracula&hide_border=true)](https://git.io/streak-stats)
