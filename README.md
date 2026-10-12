@@ -1,18 +1,35 @@
-# Hello! there 👋
+# Hi, I'm Tanjin Adnan Abir 👋
 
-# I'm Tanjin Adnan Abir, a computer scientist, researcher & STEM enthusiast.  
+**Computer Scientist | Researcher | Engineer | STEM Educator**
 
-- 🔭 I’m currently working on machine learning, deep learning, and web design.
-- 🌱 I’m currently learning LLM and Agentic AI.
-- 👯 I’m looking to collaborate on research and projects.
-- 🤔 I’m seeking help with research on NLP, computer vision, and quantum computing.
-- 💬 Ask me about anything related to my work.
-- 📫 How to reach me: tanjinadnanabir@gmail.com
-- 😄 Pronouns: he/him/his
-- Research Interests: Deep Learning, Quantum Computing, Nanotechnology, Bioinformatics, Computational Bio/Neuroscience, etc.
-- Fluent in English and Bangla
-- Happy to learn! Happy to share thoughts! Happy to discuss business and productive ideas!
-<!-- - ⚡ Fun fact: ... -->
+I am a computer scientist and researcher passionate about advancing artificial intelligence and computational methods to address complex scientific and real-world challenges. My work and interests span **machine learning, deep learning, medical imaging, computer vision, natural language processing, and computational neuroscience**.
+
+I am particularly interested in developing **efficient, reliable, and interpretable AI systems for healthcare**, including medical image analysis and clinical decision support. Beyond AI, I explore the intersection of computation with neuroscience, biology, physics, and quantum computing.
+
+### 🔬 Research & Technical Interests
+
+- **Artificial Intelligence:** Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, RAG, and Agentic AI
+- **Healthcare AI:** Medical Imaging, AI-Assisted Diagnosis, Explainable AI, and Clinical Decision Support
+- **Computational Sciences:** Computational Neuroscience, Computational Biology, Bioinformatics, and Scientific Computing
+- **Quantum Technologies:** Quantum Computing, Quantum Machine Learning, and Quantum Algorithms
+- **Software Engineering:** AI Engineering, Backend Development, API Design, Data Pipelines, and MLOps
+
+### 🚀 What I'm Working Toward
+
+- Building practical, end-to-end AI applications and research-driven solutions.
+- Exploring lightweight and computationally efficient deep learning architectures.
+- Investigating data-driven approaches to scientific discovery and healthcare innovation.
+- Bridging theoretical foundations with reproducible experiments and real-world implementation.
+- Contributing to collaborative research, open-source projects, and knowledge sharing.
+
+### 🤝 Let's Connect
+
+I welcome opportunities to collaborate on **AI/ML research, healthcare technology, computational science, and interdisciplinary projects**. I also enjoy mentoring, teaching STEM subjects, exchanging ideas, and exploring innovative solutions to challenging problems.
+
+📫 **Email:** [tanjinadnanabir@gmail.com](mailto:tanjinadnanabir@gmail.com)  
+🌐 **Languages:** English and Bangla
+
+**My guiding principle:** *Connecting computation, intelligence, and science to build solutions that matter.*
 
 # 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjinadnanabir@gmail.com)
